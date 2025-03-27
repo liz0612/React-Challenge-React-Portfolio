@@ -18,6 +18,11 @@ This is a React portfolio project to showcase work samples and projects as a web
 - The footer includes links to the developer's GitHub, LinkedIn, and another platform (e.g., Stack Overflow, Twitter).
 
 ---
+Screenshots
+[images](Screenshot%202025-03-27%20at%207.27.50 PM.png)
+[images](Screenshot%202025-03-27%20at%207.27.54 PM.png)
+[images](Screenshot%202025-03-27%20at%207.27.57 PM.png)
+[images](Screenshot%202025-03-27%20at%207.28.01 PM.png)
 
 ## Technologies Used
 - React
@@ -99,8 +104,3 @@ roject Structure
 	•	Portfolio: A section showcasing various projects with links to the live demo and GitHub repo.
 	•	Contact Form: A functional contact form with field validation.
 	•	Resume Section: A downloadable resume and list of proficiencies
-Screenshots
-[images](Screenshot%202025-03-27%20at%207.27.50 PM.png)
-[images](Screenshot%202025-03-27%20at%207.27.54 PM.png)
-[images](Screenshot%202025-03-27%20at%207.27.57 PM.png)
-[images](Screenshot%202025-03-27%20at%207.28.01 PM.png)
