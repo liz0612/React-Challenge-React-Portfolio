@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/liz0612/React-Challenge-React-Portfolio/static/css/main.6b3e17fc.css",
+    "main.js": "/liz0612/React-Challenge-React-Portfolio/static/js/main.9a74561f.js",
+    "static/js/453.bb257cf5.chunk.js": "/liz0612/React-Challenge-React-Portfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/picP.jpeg": "/liz0612/React-Challenge-React-Portfolio/static/media/picP.0f66fb367b49a43b3702.jpeg",
+    "static/media/Screenshot 2025-02-10 at 11.18.51 AM.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Screenshot 2025-02-10 at 11.18.51 AM.37254942aa0772521e53.png",
+    "static/media/Expense Tracker 2.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Expense Tracker 2.23ee5e87c69abe131f5a.png",
+    "static/media/Screenshot 2025-01-28 at 2.25.19 PM.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Screenshot 2025-01-28 at 2.25.19 PM.66aba188deb9e60552f4.png",
+    "static/media/Screenshot 2025-02-26 at 3.07.57 PM.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Screenshot 2025-02-26 at 3.07.57 PM.916bc283db11572eacec.png",
+    "static/media/Screenshot 2025-01-28 at 9.59.34 AM.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Screenshot 2025-01-28 at 9.59.34 AM.ad953294b53f7b09c981.png",
+    "static/media/Screenshot 2025-03-26 at 6.31.07 PM.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Screenshot 2025-03-26 at 6.31.07 PM.46800fcdb62104ba0b48.png",
+    "static/media/Screenshot 2025-02-26 at 7.38.25 PM.png": "/liz0612/React-Challenge-React-Portfolio/static/media/Screenshot 2025-02-26 at 7.38.25 PM.6ecc5e9e61237a9956aa.png",
+    "static/media/1000_F_503036284_2ngOqMtmS8YsglGqhqtWC6L1Ya5i6wsG.jpg": "/liz0612/React-Challenge-React-Portfolio/static/media/1000_F_503036284_2ngOqMtmS8YsglGqhqtWC6L1Ya5i6wsG.d76efa08303d9e78ff3a.jpg",
+    "static/media/Profile.pdf": "/liz0612/React-Challenge-React-Portfolio/static/media/Profile.8f62971e42eb029c0a95.pdf",
+    "index.html": "/liz0612/React-Challenge-React-Portfolio/index.html",
+    "main.6b3e17fc.css.map": "/liz0612/React-Challenge-React-Portfolio/static/css/main.6b3e17fc.css.map",
+    "main.9a74561f.js.map": "/liz0612/React-Challenge-React-Portfolio/static/js/main.9a74561f.js.map",
+    "453.bb257cf5.chunk.js.map": "/liz0612/React-Challenge-React-Portfolio/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b3e17fc.css",
+    "static/js/main.9a74561f.js"
+  ]
+}
