@@ -1,4 +1,5 @@
 # React Portfolio
+deploy link https://liz0612.github.io/React-Challenge-React-Portfolio/
 
 ## Description
 This is a React portfolio project to showcase work samples and projects as a web developer. It features a single-page application built using React. This portfolio includes a header with navigation, multiple sections for About Me, Portfolio, Resume, and Contact, and a footer with links to GitHub, LinkedIn, and other platforms.
